@@ -71,7 +71,7 @@ Salario de pessoa com responsabilidades e conhecimentos senior
 - testes integrados
 - saber explicar as camadas do react native
 - debugar codigo nativo
-- tomar decisões de arquitetura de softeware
+- tomar decisões de arquitetura de software
 - conseguir criar e manter um projeto sem ajuda
 
 
