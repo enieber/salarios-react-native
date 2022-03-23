@@ -5,6 +5,15 @@ Quantos uma pessoa que trabalha com react native deveria ganhar pelas qualifica�
 
 O motivo desse repositorio existir é para facilitar as pessoas que trabalhão com a tecnologia a terem uma base salarial atualizada.
 
+## Catalogo de salario?
+
+A ideia do repositório não é criar um catalogo com todos os tipos de classificação na carreira de uma pessoa desenvolvedora, mas iniciar uma discução sobre salarios na carreira com react-native, pois exite outros contextos de profissionais de TI que o salario diverge muito mais.
+
+## Quer contribuir?
+
+Caso encontre algum erro ou não concorda com algo, fique avontade para abrir uma issue ou modificar através de um pull request.
+
+
 ## Sandy/Junior
 
 Salario com base na qualificação de alguem que está aprendendo react-native.
@@ -83,6 +92,8 @@ Salario de pessoa com responsabilidades e conhecimentos senior
 - conseguir criar um plano para agir sob pressao
 - ter no minimo 10k horas só programando
 
+
+# Licença AGPL3
 
 
 
